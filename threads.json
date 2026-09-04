@@ -7,5 +7,14 @@
     "lastTime": 1788518180717,
     "unreadAdmin": false,
     "unreadUser": false
+  },
+  {
+    "id": "new_app_1788518272813",
+    "type": "new_app",
+    "title": "בקשת אפליקציה חדשה — מסנן אור כחול",
+    "lastMessage": "בקשה נשלחה",
+    "lastTime": 1788518272813,
+    "unreadAdmin": true,
+    "unreadUser": false
   }
 ]
